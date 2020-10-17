@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936850819154",
+    "firebase_url": "https://voteapp-18271.firebaseio.com",
+    "project_id": "voteapp-18271",
+    "storage_bucket": "voteapp-18271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936850819154:android:6760df1c10108aeddcb78b",
+        "android_client_info": {
+          "package_name": "com.example.authenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936850819154-66ajsr0pp771ncjl0rgv9a6da9uk9dcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyVdP0UXwfaW-ArOoZ8JPKDYw95vie4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936850819154-66ajsr0pp771ncjl0rgv9a6da9uk9dcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
